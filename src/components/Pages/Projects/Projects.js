@@ -61,13 +61,13 @@ const Projects = () => {
                   <a
                     href='https://my-hobbyist.herokuapp.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/Jemimaabu/hobbyist-app'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -94,13 +94,13 @@ const Projects = () => {
                   <a
                     href='https://minimalism-is-art.herokuapp.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/minimalism-is-art'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -119,7 +119,7 @@ const Projects = () => {
                 <h3 className='project-title'>VSCO Clone</h3>
                 <p>
                   A clone of the{' '}
-                  <a href='https://vsco.co/' target='_blank' rel='noreferrer'>
+                  <a href='https://vsco.co/' target='_blank' rel='noopener noreferrer'>
                     VSCO
                   </a>{' '}
                   landing page
@@ -132,13 +132,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/recreated/vsco'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/recreated/blob/master/vsco'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -160,7 +160,7 @@ const Projects = () => {
                   <a
                     href='https://www.tumblr.com/login'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Tumblr
                   </a>{' '}
                   login page
@@ -173,13 +173,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/recreated/tumblr'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/recreated/blob/master/tumblr'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -206,7 +206,7 @@ const Projects = () => {
                   <a
                     href='https://trainella.com'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                 </div>
@@ -233,7 +233,7 @@ const Projects = () => {
                   <a
                     href='https://unilagconsult.com.ng/cybercamp/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                 </div>
@@ -265,13 +265,13 @@ const Projects = () => {
                   <a
                     href='https://gridster-demo.herokuapp.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/gridster'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -298,13 +298,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/take-note/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/take-note'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -331,13 +331,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/random-gradient-generator'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/random-gradient-generator'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -364,13 +364,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/word-processor/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/word-processor'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -397,13 +397,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/list-alphabetizer/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/list-alphabetizer'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -430,13 +430,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/text-list-to-html/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/text-list-to-html'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -463,13 +463,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/random-password-generator/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/random-password-generator'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -496,13 +496,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/what-should-we-eat/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/what-should-we-eat'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -529,13 +529,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/find-the-formula'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/find-the-formula'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -562,13 +562,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/dead-and-wounded/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/dead-and-wounded'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -594,13 +594,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io/mocking-text/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/mocking-text'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -631,13 +631,13 @@ const Projects = () => {
                   <a
                     href='https://jemimaabu.github.io'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/jemimaabu.github.io'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -664,13 +664,13 @@ const Projects = () => {
                   <a
                     href='http://v2.jemimaabu.com'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/v2.jemimaabu.com'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -696,13 +696,13 @@ const Projects = () => {
                   <a
                     href='https://v3.jemimaabu.com'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     visit site
                   </a>
                   <a
                     href='https://github.com/jemimaabu/v3.jemimaabu.com'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     source code
                   </a>
                 </div>
@@ -827,7 +827,7 @@ const Projects = () => {
               <a
                 href='https://codepen.io/jemimaabu'
                 target='_blank'
-                rel='noreferrer'>
+                rel='noopener noreferrer'>
                 See all &#8594;
               </a>
             </div>

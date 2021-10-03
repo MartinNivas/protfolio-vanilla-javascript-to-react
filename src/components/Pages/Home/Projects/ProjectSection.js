@@ -34,7 +34,7 @@ export default class ProjectSection extends Component {
                     <a
                       href='https://trainella.com'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       {' '}
                       Trainella{' '}
                     </a>
@@ -76,7 +76,7 @@ export default class ProjectSection extends Component {
                     <a
                       href='https://trainella.com'
                       target='_blank'
-                      rel='noreferrer'
+                      rel='noopener noreferrer'
                       className='link-btn'>
                       visit site
                     </a>
@@ -99,7 +99,7 @@ export default class ProjectSection extends Component {
                     <a
                       href='http://unilagconsult.com.ng/cybercamp'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Unilag Consult Cyber Camp
                     </a>
                   </h3>
@@ -126,7 +126,7 @@ export default class ProjectSection extends Component {
                     <a
                       href='http://unilagconsult.com.ng/cybercamp'
                       target='_blank'
-                      rel='noreferrer'
+                      rel='noopener noreferrer'
                       className='link-btn'>
                       Visit Site
                     </a>
@@ -182,7 +182,7 @@ export default class ProjectSection extends Component {
                     <a
                       href='https://github.com/jemimaabu/portfolio'
                       target='_blank'
-                      rel='noreferrer'
+                      rel='noopener noreferrer'
                       className='link-btn'>
                       View Source Code
                     </a>

@@ -160,7 +160,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.facebook.com/infoshow/posts/10158956219453815'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       InfoShow KTU
                     </a>
                   </h4>
@@ -181,7 +181,7 @@ export default class Talks extends Component {
                     <a
                       href='https://webinale.de/speaker/jemima-abu/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Webinale
                     </a>
                   </h4>
@@ -202,7 +202,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.codemotion.com/talks/let-s-get-functional-16338'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Codemotion Online - Italian Edition
                     </a>
                   </h4>
@@ -223,7 +223,7 @@ export default class Talks extends Component {
                     <a
                       href='http://jstalks.net/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       JS Talks Bulgaria
                     </a>
                   </h4>
@@ -244,7 +244,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.buildstuff.events/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Build Stuff Lithuania
                     </a>
                   </h4>
@@ -265,7 +265,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.eventbrite.co.uk/e/front-endgineers-london-meetup-understanding-state-management-in-react-tickets-125154577711#'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Front Endgineers London
                     </a>
                   </h4>
@@ -286,7 +286,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.codemotion.com/talks/you-can-t-spell-accessibility-without-css-16342'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Codemotion Online
                     </a>
                   </h4>
@@ -307,7 +307,7 @@ export default class Talks extends Component {
                     <a
                       href='https://reactsummit.com/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       React Summit
                     </a>
                   </h4>
@@ -328,7 +328,7 @@ export default class Talks extends Component {
                     <a
                       href='https://developer.cisco.com/devnetcreate/2020'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DevNet Create
                     </a>
                   </h4>
@@ -349,7 +349,7 @@ export default class Talks extends Component {
                     <a
                       href='https://femtechconf.com/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       FemTechConf
                     </a>
                   </h4>
@@ -370,7 +370,7 @@ export default class Talks extends Component {
                     <a
                       href='https://cityjsconf.org/2020'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       CityJS
                     </a>
                   </h4>
@@ -391,7 +391,7 @@ export default class Talks extends Component {
                     <a
                       href='https://reactlive.nl/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       React Live
                     </a>
                   </h4>
@@ -412,7 +412,7 @@ export default class Talks extends Component {
                     <a
                       href='https://javascript-conference.com/react/react-components-and-how-to-style-them/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       International JavaScript Conference
                     </a>
                   </h4>
@@ -433,7 +433,7 @@ export default class Talks extends Component {
                     <a
                       href='https://2020.cascadiajs.com/speakers/jemima-abu'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Cascadia JS
                     </a>
                   </h4>
@@ -454,7 +454,7 @@ export default class Talks extends Component {
                     <a
                       href='https://2020.frontcon.com/speaker/jemima-abu/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Frontcon
                     </a>
                   </h4>
@@ -475,7 +475,7 @@ export default class Talks extends Component {
                     <a
                       href='https://dsc.community.dev/university-of-lagos/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DSC UNILAG
                     </a>
                   </h4>
@@ -496,7 +496,7 @@ export default class Talks extends Component {
                     <a
                       href='https://atndesign.github.io/Live-coders-conference/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       The Live Coders Conference
                     </a>
                   </h4>
@@ -517,7 +517,7 @@ export default class Talks extends Component {
                     <a
                       href='https://webinale.de/web-design-frontend-development/you-cant-spell-accessibility-without-css/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Webinale
                     </a>
                   </h4>
@@ -538,7 +538,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.womentech.net/en-gb/speaker/Jemima/Abu'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Women Tech Global Conference
                     </a>
                   </h4>
@@ -559,7 +559,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.devsum.se/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DevSum
                     </a>
                   </h4>
@@ -580,7 +580,7 @@ export default class Talks extends Component {
                     <a
                       href='https://devaroundthesun.org/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DevAroundTheSun
                     </a>
                   </h4>
@@ -601,7 +601,7 @@ export default class Talks extends Component {
                     <a
                       href='https://ndcporto.com/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       NDC Porto
                     </a>
                   </h4>
@@ -622,7 +622,7 @@ export default class Talks extends Component {
                     <a
                       href='https://javascript-conference.com/javascript-practices-tools/lets-get-func-y-with-plain-ol-javascript/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       International JavaScript Conference
                     </a>
                   </h4>
@@ -643,7 +643,7 @@ export default class Talks extends Component {
                     <a
                       href='https://webofficehours.com/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       WebOfficeHours
                     </a>
                   </h4>
@@ -664,7 +664,7 @@ export default class Talks extends Component {
                     <a
                       href='https://devclub.lv/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DevClub.lv
                     </a>
                   </h4>
@@ -685,7 +685,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.meetup.com/Frontend-Love-Meetups/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Frontend Love Meetup
                     </a>
                   </h4>
@@ -706,7 +706,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.womenwhocode.com/lagos'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Women Who Code Lagos
                     </a>
                   </h4>
@@ -727,7 +727,7 @@ export default class Talks extends Component {
                     <a
                       href='https://gdg.community.dev/gdg-ibadan/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       DevFest Ibadan
                     </a>
                   </h4>
@@ -749,7 +749,7 @@ export default class Talks extends Component {
                     <a
                       href='https://www.meetup.com/JAMStack-Lagos/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       JAMstack Lagos
                     </a>
                   </h4>
@@ -770,7 +770,7 @@ export default class Talks extends Component {
                     <a
                       href='https://frontstack.io/'
                       target='_blank'
-                      rel='noreferrer'>
+                      rel='noopener noreferrer'>
                       Frontstack
                     </a>
                   </h4>
@@ -927,7 +927,7 @@ export default class Talks extends Component {
                   <a
                     href='https://youtu.be/YvgSTXWUyhc?t=7856'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Accessibility Driven Design Decisions
                   </a>
                 </h4>
@@ -938,7 +938,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=et0etF-Ufgc'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Aspiring Women Speakers Q&A
                   </a>
                 </h4>
@@ -949,7 +949,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=lFzWAsA76DU'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Accessible.JS
                   </a>
                 </h4>
@@ -960,7 +960,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=a0CmIEH44vg'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     State Management For React Applications
                   </a>
                 </h4>
@@ -971,7 +971,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=ueKHYRuAhQI'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Understanding Accessible UX
                   </a>
                 </h4>
@@ -982,7 +982,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=QSXdTuD9Rak'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Understanding Accessibility as a Concept
                   </a>
                 </h4>
@@ -993,7 +993,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=qs2vHHBEOWI'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Manipulating Webpages using DevTools
                   </a>
                 </h4>
@@ -1004,7 +1004,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=YGPxUK5Ksuw'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Defining A Career Path in Technology
                   </a>
                 </h4>
@@ -1015,7 +1015,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=mbKM39dFsKA'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Manipulating Webpages using DevTools
                   </a>
                 </h4>
@@ -1026,7 +1026,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=8xAiU1CRFHs'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Building Accessible Components in React
                   </a>
                 </h4>
@@ -1037,7 +1037,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=8xAiU1CRFHs'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Redux Middleware for React Applications
                   </a>
                 </h4>
@@ -1048,7 +1048,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.youtube.com/watch?v=B8kd33nUdcA&t=4128s'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Building Accessible Components in React
                   </a>
                 </h4>
@@ -1064,7 +1064,7 @@ export default class Talks extends Component {
                   <a
                     href='https://www.notion.so/Jemima-Abu-55a276a4d8144c46b2bcdb866fa12990'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     #HerCodeStories
                   </a>
                 </h4>
@@ -1075,7 +1075,7 @@ export default class Talks extends Component {
                   <a
                     href='https://hashnode.com/post/good-morning-with-jemima-abu-ckaz2x1m401uvl6s1vrxxf4xk'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Good Morning with Jemima Abu.
                   </a>
                 </h4>

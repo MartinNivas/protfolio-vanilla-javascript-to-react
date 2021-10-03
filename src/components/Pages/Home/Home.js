@@ -1,7 +1,7 @@
 import './Home.scss';
 import React, { Fragment, useEffect, useLayoutEffect } from 'react';
-import { ReactComponent as Wavetop } from '../../../static/svg/Wavetop.svg';
-import { ReactComponent as Wavebottom } from '../../../static/svg/Wavebottom.svg';
+import { ReactComponent as WaveTop }  from '../../../static/svg/Wavetop.svg';
+import { ReactComponent as WaveBottom } from '../../../static/svg/Wavebottom.svg';
 import Header from '../../Header/Header';
 import Navbar from '../../Navbar/Navbar';
 import About from './About/AboutSection';
@@ -44,7 +44,7 @@ const Home = () => {
 
   setTimeout(() => {
     const header = document.querySelector('header');
-    header.classList.add('js-fixed');
+    header && header.classList.add('js-fixed');
 
     const scrollElements = document.querySelectorAll('.scroll-in');
     scrollElements.forEach((el) => {
@@ -191,19 +191,19 @@ const Home = () => {
       <main>
         <About />
         <div className='wave-border top'>
-          <Wavetop />
+          <WaveTop />
         </div>
         <Projects />
         <div className='wave-border bottom'>
-          <Wavebottom />
+          <WaveBottom />
         </div>
         <Talks />
         <div className='wave-border top'>
-          <Wavetop />
+          <WaveTop />
         </div>
         <Articles />
         <div className='wave-border bottom'>
-          <Wavebottom />
+          <WaveBottom />
         </div>
         <Contact />
       </main>

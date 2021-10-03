@@ -81,7 +81,7 @@ const About = () => {
                 <a
                   href='https://github.com/jemimaabu/GPA-Calculator-C-'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   legacy code here
                 </a>{' '}
                 for posterity) and from then, I was hooked.
@@ -93,7 +93,7 @@ const About = () => {
                 <a
                   href='https://linkedin.com/in/jemimaabu'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   career
                 </a>{' '}
                 in front end development.
@@ -109,28 +109,28 @@ const About = () => {
                 <a
                   href='https://codepen.io/Jemimaabu'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Codepen
                 </a>{' '}
                 and time-saving projects on{' '}
                 <a
                   href='https://github.com/jemimaabu'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Github
                 </a>
                 . I also publish beginner-friendly articles on{' '}
                 <a
                   href='https://hashnode.com/@jemimaabu'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Hashnode
                 </a>
                 and{' '}
                 <a
                   href='https://www.freecodecamp.org/news/author/jemima/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   freeCodeCamp
                 </a>
                 .
@@ -161,7 +161,7 @@ const About = () => {
                   <a
                     href='https://telesoftas.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Telesoftas
                   </a>{' '}
                 </h3>
@@ -182,7 +182,7 @@ const About = () => {
                   <a
                     href='https://www.sumo-soft.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Sumosoft
                   </a>{' '}
                 </h3>
@@ -203,7 +203,7 @@ const About = () => {
                   <a
                     href='https://naturesownwonders.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Nature’s Own Wonder
                   </a>{' '}
                 </h3>
@@ -223,7 +223,7 @@ const About = () => {
                   <a
                     href='https://omoelle.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Omoelle
                   </a>
                 </h3>
@@ -252,7 +252,7 @@ const About = () => {
                   <a
                     href='https://www.facebook.com/media/set/?vanity=TeleSoftas&set=a.10157567631476723'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Women Go Tech
                   </a>
                 </h3>
@@ -267,7 +267,7 @@ const About = () => {
                   <a
                     href='http://unilagconsult.com.ng/cybercamp'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     UNILAG CyberCamp
                   </a>
                 </h3>
@@ -288,7 +288,7 @@ const About = () => {
                   <a
                     href='http://www.raoatech.com/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Raoatech
                   </a>
                 </h3>
@@ -307,7 +307,7 @@ const About = () => {
                   <a
                     href='https://girlcode.academy/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     GirlCode Academy
                   </a>
                 </h3>
@@ -325,7 +325,7 @@ const About = () => {
                   <a
                     href='https://pearlsafrica.org/girlscoding/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Pearls Africa
                   </a>
                 </h3>

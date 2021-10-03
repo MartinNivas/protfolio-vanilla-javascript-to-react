@@ -34,35 +34,35 @@ export default class AboutSection extends Component {
                 <a
                   href='https://jemimaabu.medium.com/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Medium
                 </a>
                 ,
                 <a
                   href='https://blog.jemimaabu.com'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Hashnode
                 </a>
                 ,{' '}
                 <a
                   href='https://www.freecodecamp.org/news/author/jemima/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   freeCodeCamp
                 </a>
                 ,
                 <a
                   href='https://css-tricks.com/author/jemima/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   CSSTricks
                 </a>
                 and
                 <a
                   href='https://tutsplus.com/authors/jemima-abu'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   Envato Tuts
                 </a>{' '}
                 .

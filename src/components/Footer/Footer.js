@@ -17,7 +17,7 @@ export default class Footer extends Component {
               <a
                 className='bmc-btn'
                 target='_blank'
-                rel='noreferrer'
+                rel='noopener noreferrer'
                 href='http://buymeacoffee.com/jemimaabu'>
                 <FooterSvg />
                 <span className='bmc-btn-text'>Buy me a coffee</span>
