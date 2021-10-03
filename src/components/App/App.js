@@ -1,12 +1,13 @@
+import React from 'react';
 import { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Footer from '../Footer/Footer';
 
 const Home = lazy(() => import('../Pages/Home/Home'));
 const About = lazy(() => import('../Pages/About/About'));
 const Projects = lazy(() => import('../Pages/Projects/Projects'));
 const Talks = lazy(() => import('../Pages/Talks/Talks'));
 const Articles = lazy(() => import('../Pages/Articles/Articles'));
+const Footer = lazy(() => import('../Footer/Footer'));
 
 function App() {
   return (
@@ -47,7 +48,9 @@ function App() {
           </Switch>
         </div>
       </Router>
-      <Footer />
+      <Suspense fallback={<div>Footer Loading...</div>}>
+        <Footer />
+      </Suspense>
     </div>
   );
 }

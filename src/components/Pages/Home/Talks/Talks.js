@@ -28,7 +28,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=lFzWAsA76DU'
                   title='Accessible.JS - Jemima Abu - CityJS Conf 2020'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={AccessibleImg}
                     alt='Accessible.JS - Jemima Abu - CityJS Conf 2020'
@@ -50,7 +50,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=QSXdTuD9Rak'
                   title='Understanding Accessibility as a Concept | Jemima Abu | CascadiaJS 2020'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={UnderstandingImg}
                     alt='Understanding Accessibility as a Concept | Jemima Abu | CascadiaJS 2020'
@@ -74,7 +74,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=a0CmIEH44vg'
                   title='Jemima Abu - State Management for React Applications at React Live Conference Online'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={StateMgtImg}
                     alt='Jemima Abu - State Management for React Applications at React Live Conference Online'
@@ -98,7 +98,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=TEvxRKd2suc'
                   title='Redux Middleware for React Applications by Jemima Abu from  Telesoftas  at 84th Devclub.lv'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={ReduxImg}
                     alt='Redux Middleware for React Applications by Jemima Abu from  Telesoftas  at 84th Devclub.lv'
@@ -122,7 +122,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=YGPxUK5Ksuw'
                   title='Defining A Career Path in Technology - Jemima Abu - Women Tech Network'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={TechCareerImg}
                     alt='Defining A Career Path in Technology - Jemima Abu - Women Tech Network'
@@ -146,7 +146,7 @@ export default class Talks extends Component {
                   href='https://www.youtube.com/watch?v=11NNrrbKKgU'
                   title='React Components and How To Style Them - Jemima Abu - React Summit 2020'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={ReactStyleImg}
                     alt='React Components and How To Style Them - Jemima Abu - React Summit 2020'

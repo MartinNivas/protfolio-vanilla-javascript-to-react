@@ -24,7 +24,7 @@ export default class Articles extends Component {
                 <a
                   href='https://www.freecodecamp.org/news/beginners-guide-to-creating-a-portfolio-website/'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={PortfolioImg}
                     alt="A Beginner's Guide To Creating A Portfolio Website"
@@ -36,7 +36,7 @@ export default class Articles extends Component {
                   <a
                     href='https://www.freecodecamp.org/news/beginners-guide-to-creating-a-portfolio-website/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     freecodecamp
                   </a>
                 </div>
@@ -44,7 +44,7 @@ export default class Articles extends Component {
                   <a
                     href='https://www.freecodecamp.org/news/beginners-guide-to-creating-a-portfolio-website/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     I Helped 6 Developers Set Up Their Portfolio Website. Here's
                     What I Learned.
                   </a>
@@ -63,7 +63,7 @@ export default class Articles extends Component {
                 <a
                   href='https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={ScrollImg}
                     alt='Handling Scroll Based Animation With Vanilla JavaScript'
@@ -75,7 +75,7 @@ export default class Articles extends Component {
                   <a
                     href='https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     envatotuts+
                   </a>
                 </div>
@@ -83,7 +83,7 @@ export default class Articles extends Component {
                   <a
                     href='https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Handling Scroll Based Animation With Vanilla JavaScript
                   </a>
                 </h3>
@@ -102,7 +102,7 @@ export default class Articles extends Component {
                 <a
                   href='https://blog.jemimaabu.com/how-to-find-conferences-to-speak-at'
                   target='_blank'
-                  rel='noreferrer'>
+                  rel='noopener noreferrer'>
                   <img
                     src={ConferenceImg}
                     alt='How To Find Conferences To Speak At'
@@ -114,7 +114,7 @@ export default class Articles extends Component {
                   <a
                     href='https://blog.jemimaabu.com/how-to-find-conferences-to-speak-at'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     hashnode
                   </a>
                 </div>
@@ -122,7 +122,7 @@ export default class Articles extends Component {
                   <a
                     href='https://blog.jemimaabu.com/how-to-find-conferences-to-speak-at'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     How To Find Conferences To Speak At
                   </a>
                 </h3>

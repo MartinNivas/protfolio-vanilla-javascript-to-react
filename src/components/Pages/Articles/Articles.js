@@ -67,7 +67,7 @@ export default class Articles extends Component {
                   <a
                     href='https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Creating a Smart Navbar With Vanilla JavaScript
                   </a>
                 </h2>
@@ -85,7 +85,7 @@ export default class Articles extends Component {
                   <a
                     href='https://blog.jemimaabu.com/how-i-built-my-perfect-score-portfolio-website'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     How I Built My Perfect Score Portfolio Website
                   </a>
                 </h2>
@@ -103,7 +103,7 @@ export default class Articles extends Component {
                   <a
                     href='https://www.freecodecamp.org/news/beginners-guide-to-creating-a-portfolio-website/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     I Helped 6 Developers Set Up Their Portfolio Website. Here's
                     What I Learned.
                   </a>
@@ -122,7 +122,7 @@ export default class Articles extends Component {
                   <a
                     href='https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     Handling Scroll Based Animation With Vanilla JavaScript
                   </a>
                 </h2>
@@ -139,7 +139,7 @@ export default class Articles extends Component {
                   <a
                     href='https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     5 Coding Projects You Should Include in Your Front End
                     Portfolio
                   </a>
@@ -158,7 +158,7 @@ export default class Articles extends Component {
                   <a
                     href='https://blog.jemimaabu.com/how-to-find-conferences-to-speak-at'
                     target='_blank'
-                    rel='noreferrer'>
+                    rel='noopener noreferrer'>
                     How To Find Conferences To Speak At
                   </a>
                 </h2>
