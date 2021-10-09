@@ -1,5 +1,5 @@
-# www.jemimaabu.com
-Design for my new portfolio website
+## www.jemimaabu.com
+Design for new portfolio website
 
 --- 
 
@@ -39,3 +39,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+# Re-arch to reactjs by
+https://www.linkedin.com/in/nivas-arokiaraj/

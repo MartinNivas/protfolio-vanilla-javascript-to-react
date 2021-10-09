@@ -8,6 +8,7 @@ const Projects = lazy(() => import('../Pages/Projects/Projects'));
 const Talks = lazy(() => import('../Pages/Talks/Talks'));
 const Articles = lazy(() => import('../Pages/Articles/Articles'));
 const Footer = lazy(() => import('../Footer/Footer'));
+const NotFound = lazy(() => import('../Pages/NotFound/NotFound'));
 
 function App() {
   return (
@@ -43,6 +44,11 @@ function App() {
             <Route path='/articles'>
               <Suspense fallback={<div>Articles Loading...</div>}>
                 <Articles />
+              </Suspense>
+            </Route>
+            <Route>
+              <Suspense fallback={<div>NotFound Loading...</div>}>
+                <NotFound />
               </Suspense>
             </Route>
           </Switch>

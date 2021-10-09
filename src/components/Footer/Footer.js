@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import './Footer.scss';
+import Socialmedia from '../Socialmedia/Socialmedia';
 import { ReactComponent as FooterSvg } from '../../static/svg/footer.svg';
 import { ReactComponent as Wavetop } from '../../static/svg/Wavetop.svg';
 
@@ -25,27 +26,14 @@ export default class Footer extends Component {
             </div>
           </div>
           <div className='container'>
-            <div className='social-media'>
-              <a href='https://www.github.com/jemimaabu' title='Github'>
-                <i className='demo-icon icon-github-circled'></i>
-              </a>
-              <a href='https://www.twitter.com/jemimaabu' title='Twitter'>
-                <i className='demo-icon icon-twitter'></i>
-              </a>
-              <a href='https://jemimaabu.medium.com' title='Medium'>
-                <i className='demo-icon icon-medium'></i>
-              </a>
-              <a href='https://codepen.io/jemimaabu' title='Codepen'>
-                <i className='demo-icon icon-codeopen'></i>
-              </a>
-              <a href='https://www.linkedin.com/in/jemimaabu' title='LinkedIn'>
-                <i className='demo-icon icon-linkedin'></i>
-              </a>
-            </div>
+            <Socialmedia />
             <div className='copyright'>
               &copy; designed & built by{' '}
-              <a href='https://www.jemimaabu.com'>Jemima Abu</a>{' '}
-              <span className='heart'>&hearts;</span>
+              <a href='https://www.jemimaabu.com' rel='noopener noreferrer'>Jemima Abu</a>{' '}
+              <span className='heart'>&hearts;</span><br />
+              <span className='heart'>&#9842;</span>{' '}
+              Resturctured by <a href='https://www.linkedin.com/in/nivas-arokiaraj/' rel='noopener noreferrer'>Martin Nivas</a>
+              <span className='heart'>&#9812;</span><br />
             </div>
           </div>
         </footer>
