@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import Socialmedia from './Socialmedia/Socialmedia';
+import Socialmedia from '../../Socialmedia/Socialmedia';
 import { Link } from 'react-router-dom';
 
 const PAGES = [
