@@ -55,9 +55,6 @@ export default class Navbar extends Component {
     return (
       <nav className='visible'>
         <div className='container'>
-          <a href='/' className='nav-logo' title='Back to Homepage'>
-            JEMIMA ABU
-          </a>
           <Navlinks />
           <Navcontrols />
           <Theme onClicked={(e) => setTheme(e)} />
